@@ -3,6 +3,6 @@ I'm a Professional Engineer with over 5 years of work experience in the energy i
 
 # Currently Working On:
 
-- 🦾 Completed [Google Data Analytics Certification] (https://www.credly.com/badges/53ceb6e8-566e-4a0a-ad0f-0a39f59378f3/public_url)
+- 🦾 Completed Google Data Analytics Certification
 - 🌱 SQL, R and Tableau Analytics Case Projects
 - ✍️ Currently Learning C and Python
